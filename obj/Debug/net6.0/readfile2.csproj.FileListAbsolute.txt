@@ -1,0 +1,17 @@
+D:\Projects\ReadFileProject\readfile2\bin\Debug\net6.0\readfile2.exe
+D:\Projects\ReadFileProject\readfile2\bin\Debug\net6.0\readfile2.deps.json
+D:\Projects\ReadFileProject\readfile2\bin\Debug\net6.0\readfile2.runtimeconfig.json
+D:\Projects\ReadFileProject\readfile2\bin\Debug\net6.0\readfile2.dll
+D:\Projects\ReadFileProject\readfile2\bin\Debug\net6.0\readfile2.pdb
+D:\Projects\ReadFileProject\readfile2\bin\Debug\net6.0\CsvHelper.dll
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.csproj.AssemblyReference.cache
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.AssemblyInfoInputs.cache
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.AssemblyInfo.cs
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.csproj.CoreCompileInputs.cache
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.csproj.CopyComplete
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.dll
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\refint\readfile2.dll
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.pdb
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\readfile2.genruntimeconfig.cache
+D:\Projects\ReadFileProject\readfile2\obj\Debug\net6.0\ref\readfile2.dll
